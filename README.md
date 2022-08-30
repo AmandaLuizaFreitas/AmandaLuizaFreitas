@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá!👋 Meu nome é  Amanda Luiza 😃️
-  <p align="center"> 🌱Estudo HTML5 e CSS3
+  <p align="center"> 🌱Estudo HTML5 e CSS3 e JavaScript
    <br>
  
 <div align="center">
