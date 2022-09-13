@@ -8,6 +8,13 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AmandaLuizaFreitas&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLuizaFreitas&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
+  
+  <div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+  
 </div>
 <img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
 <br>
@@ -35,4 +42,4 @@
 
  </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AmandaLuizaFreitas&repo=AmandaLuizaFreitas&theme=react)](https://github.com/AmandaLuizaFreitas/AmandaLuizaFreitas)
+
