@@ -3,8 +3,7 @@
   <p align="center"> 🌱Estudo HTML5 e CSS3 e JavaScript
    <br>
  
-
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaLuizaFreitas&show_icons=true&theme=dracula)
   
   
 </div>
