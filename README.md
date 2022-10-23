@@ -4,17 +4,15 @@
    
 
    <h1 align="center">Olá!👋 Meu nome é  Amanda Luiza 😃️</h1>
-  
-     
-     
-     
+ 
+   <h2>⚙️ GitHub Análise</h2>
 
- <div align="center">
+ <div align="left">
  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=AmandaLuizaFreitas&show_icons=true&theme=dracula">
  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLuizaFreitas&layout=compact&lang_count-16&theme=dracula">
   </div>
-
-
+ <br>
+<br>
 
 
   <div align="center">
