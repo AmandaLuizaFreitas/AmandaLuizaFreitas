@@ -1,16 +1,17 @@
 <div>
    
    <img align="right" height="475"    src= "https://user-images.githubusercontent.com/110351770/197419354-b576f385-33ba-431d-8fb2-bdd846188bb4.png">
-
-  <h1 align="center">Olá!👋 Meu nome é  Amanda Luiza 😃️
-  
-   <p align="left">
+    <p align="left">
  
  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=AmandaLuizaFreitas&show_icons=true&theme=dracula">
  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLuizaFreitas&layout=compact&lang_count-16&theme=dracula">
   
 
  </p>
+
+  <h1 align="center">Olá!👋 Meu nome é  Amanda Luiza 😃️
+  
+   
 
 
   <div align="center">
