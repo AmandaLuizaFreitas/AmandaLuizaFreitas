@@ -5,8 +5,7 @@
   <h1 align="center">Olá!👋 Meu nome é  Amanda Luiza 😃️
  
    <br>
-    <br>
-     <br>
+   
  
  <p align="left">
  
