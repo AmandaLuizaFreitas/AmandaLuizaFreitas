@@ -1,12 +1,13 @@
 <div>
    
-   <img align="right" height="475"    src= "https://user-images.githubusercontent.com/110351770/197419354-b576f385-33ba-431d-8fb2-bdd846188bb4.png">
+   <img align="right" width="475"    src= "https://user-images.githubusercontent.com/110351770/217705553-f4629d9a-3984-4082-a08b-0233a3cb599d.gif">
    
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&width=435&lines=Olá!+👋+Meu+nome+é+Amanda+Luiza+😃️)](https://git.io/typing-svg)
   
  
    
+
 
 
   
