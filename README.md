@@ -20,22 +20,21 @@
 
 
   <div align="center">
- <h2 > 🔧 Main Skills</h2>
+ <h2 > ⚙️ Main Skills</h2>
  <img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF8C00">
  <img align="center" alt="CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
  <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
- <img align="center" alt="Node.js" height="30" width="100" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D">
+
 
    
 
 
      
-<h2 > 📚 Learning</h2>
+<h2> 📚 Learning</h2>
 
- <img align="center" alt="CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+
  <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
- <img align="center" alt="Node.js" height="30" width="100" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white"> 
-      <img align="center" alt="React.js" height="30" width="100" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+
   
      
  
