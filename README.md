@@ -23,7 +23,7 @@
  <h2 > ⚙️ Main Skills</h2>
  <img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF8C00">
  <img align="center" alt="CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
- <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-thebadge&logo=javascript&logoColor=F7DF1E">
+ <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 
    
@@ -39,7 +39,7 @@
 
   <img align="center" alt="Sass" height="30" width="100" src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699">
   
-  <img align="center" alt="typescript" height="30" width="100" src="https://img.shields.io/badge/TypeScript-0D1117??style=for-the-badge&logo=typescript&logoColor=007ACC">
+  <img align="center" alt="typescript" height="30" width="100" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC">
      	
  
 
