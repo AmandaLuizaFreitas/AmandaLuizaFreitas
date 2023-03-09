@@ -34,6 +34,8 @@
 
 
  <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+     
+  <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white">   
 
   
      
