@@ -13,14 +13,13 @@
 
   
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AmandaLuizaFreitas&show_icons=true&count_private=true&hide_border=true&title_color=CB6CE6&icon_color=CB6CE6&text_color=FFFFFF&bg_color=0d1117" alt="AmandaLuizaFreitas github stats" /> 
+  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLuizaFreitas&layout=compact&hide_border=true&title_color=AB82FD&text_color=CB6CE6&bg_color=0d1117" />
 </div>
    
   
 
 
-   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AmandaLuizaFreitas&theme=0d1117)
    
 
  
