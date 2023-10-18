@@ -36,7 +36,7 @@
  <h2 > 🛠 Habilidades</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,figma,sass" />
   </a>
 </p>
      
@@ -46,7 +46,7 @@
  <h2 align="center" >🚀 Atualmente a Aprendendo:</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,next" />
+    <img src="https://skillicons.dev/icons?i=nodejs,next" />
   </a>
 </p>
      
