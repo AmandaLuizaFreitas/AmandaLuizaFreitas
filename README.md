@@ -12,11 +12,18 @@
   <h2>  Sobre mim</h2>
    <p>
       Sou uma pessoa com foco em Desenvolvimento em Front-End
+   
+    
    </p>
    
 </div>
+<div align="center">
 
+ [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolioamanda.vercel.app/)
+   
+</div>
 
+ 
 
 
   
