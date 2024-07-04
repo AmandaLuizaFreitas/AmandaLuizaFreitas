@@ -53,7 +53,7 @@
  <h2 align="center" >Atualmente Estudando:</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" />
   </a>
 </p>
      
