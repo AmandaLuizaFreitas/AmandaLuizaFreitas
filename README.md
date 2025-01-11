@@ -11,7 +11,7 @@
 <div align="center">
   <h2>  Sobre mim</h2>
    <p>
-      Sou uma pessoa com foco em Desenvolvimento em Front-End
+   Desenvolvedora focada em Front-End, transformando ideias em interfaces funcionais e atraentes.
    
     
    </p>
