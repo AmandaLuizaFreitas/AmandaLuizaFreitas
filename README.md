@@ -43,19 +43,13 @@
  <h2 >  Habilidades</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,figma,sass,next,tailwindcss,vite,mui,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,figma,sass,next,tailwindcss,vite,mui,vscode,styledcomponents,redux,jest,npm" />
   </a>
 </p>
      
      
      
      
- <h2 align="center" >Atualmente Estudando:</h2>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" />
-  </a>
-</p>
      
      
 
