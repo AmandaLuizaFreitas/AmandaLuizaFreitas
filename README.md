@@ -43,7 +43,7 @@
  <h2 >  Habilidades</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,figma,sass,next,tailwindcss,vite,mui,vscode,styledcomponents,redux,firebase,npm,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,figma,sass,next,tailwindcss,vite,mui,vscode,styledcomponents,redux,firebase,npm,git,linux,windows " />
   </a>
 </p>
      
