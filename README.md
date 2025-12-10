@@ -19,7 +19,7 @@
 </div>
 <div align="center">
 
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:www.amandald.com.br)
+ [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amandald.com.br)
    
 </div>
 
